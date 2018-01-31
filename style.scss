@@ -272,11 +272,18 @@ nav {
 }
 
 .wrapper-footer {
-  margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+    margin-top: 50px;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    background-color: $white;
 }
+
+.small-date {
+    font-style: italic;
+    font-size: 12px;
+    color: #666;
+}
+
 
 footer {
   padding: 20px 0;
